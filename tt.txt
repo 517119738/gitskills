@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Git push test
+=======
+creating a new branch is quick.
+>>>>>>> dev
